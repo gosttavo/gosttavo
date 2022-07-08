@@ -2,7 +2,7 @@ Desktop Developer (trainee) at @agpr5a5group.
 
 Studying Software Engineering at @unisatc
 
-Enthusiast in web, mobile and game dev.
+Enthusiast on web and game dev.
 
 Currently studying web development focusing on front end solutions.
 
