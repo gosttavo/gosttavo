@@ -2,15 +2,15 @@
 
 :brazil:
 
-Desenvolvedor Desketop (estagiário) na AGPR5+20
+Desenvolvedor Desktop (estagiário) na AGPR5+20
 
-Técnico em Desenvolvimento de Sistema pelo SENAI
+Técnico em Desenvolvimento de Sistemas pelo SENAI
 
 Cursando Engenharia de Software na UniSATC
 
 Entusiasta de desenvolvimento web e de games
 
-Atualmente uso essa conta para postar meus estudos e alguns projetos. Espero que gostem.
+Atualmente uso essa conta para postar meus estudos e alguns projetos, espero que gostem!
 
 :united_nations:
 
@@ -22,5 +22,5 @@ Studying Software Engineering at UniSATC
 
 Enthusiast on web and game dev.
 
-I use this account to post my studies and some projects, hope you all enjoy.
+I use this account to post my studies and some projects, hope you all enjoy!
 
