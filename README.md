@@ -1,5 +1,3 @@
-:briefcase: [Linkedin](https://www.linkedin.com/in/gustavo-goulart-6a023420b/)
-
 :brazil:
 
 Desenvolvedor Desktop (estagiário) na AGPR5+20
