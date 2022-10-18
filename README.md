@@ -1,7 +1,7 @@
 <h2>Olá! Eu sou o Gustavo!</h2>
-<p>Me chamo Gustavo Goulart, tenho 18 anos e sou  formado no ensino técnico em Desenvolvimento de Sistemas pelo SENAI. </p>
-<p>Atualmente estou cursando a graduação de Engenharia de Software na Unisatc enquanto trabalho como estagiário na AGPR5 +20, no setor de Sistemas. Trabalhando com C# (Desktop), Visual Basic e Banco de Dados.</p>
-<p>Também possuo interesse em desenvolvimento web e estou estudando Front-End, com foco em no futuro aprender JavaScript e React JS.</p>
+<p>Me chamo Gustavo Goulart, tenho 18 anos e sou formado no ensino técnico em Desenvolvimento de Sistemas pelo SENAI. </p>
+<p>Atualmente estou cursando a graduação de Engenharia de Software na Unisatc enquanto trabalho como estagiário em desenvolvimento Full-Stack na Harpa Business Software. Angular, Node.js e TypeORM.</p>
+<p>Além disso, estou estudando React.js e no futuro pretendo estudar React Native.</p>
 
 <a href="mailto:gustavogoulart92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/gustavo-goulart-6a023420b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
