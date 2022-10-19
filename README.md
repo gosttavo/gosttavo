@@ -17,7 +17,7 @@
 ##
   
 <div>
-  <p>Linguagens com que tenho experiência:</p>
+  <p>Tecnologias com que tenho experiência:</p>
 </div>
 
 <div style="display: inline_block">
