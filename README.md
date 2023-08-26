@@ -1,6 +1,6 @@
 <h2>Olá! Eu sou o Gustavo!</h2>
-<p>Me chamo Gustavo Goulart, tenho 20 anos, sou Desenvolvedor Full Stack na Harpa Business Software</p>
-<p>formado no ensino técnico em Desenvolvimento de Sistemas pelo SENAI. </p>
+<p>Me chamo Gustavo Goulart, tenho 20 anos, sou Desenvolvedor Full Stack na Harpa Business Software.</p>
+<p>Técnico em desenvolvimento de sistemas pelo SENAI.</p>
 <p>Atualmente estou cursando a graduação de Engenharia de Software na Unisatc.</p>
 
 <a href="mailto:gustavogoulart92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
