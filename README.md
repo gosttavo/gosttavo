@@ -1,10 +1,25 @@
-<h2>Olá! Eu sou o Gustavo!</h2>
-<p>Me chamo Gustavo Goulart, tenho 20 anos, sou Desenvolvedor Full Stack na Harpa Business Software.</p>
-<p>Técnico em desenvolvimento de sistemas pelo SENAI.</p>
-<p>Cursando Engenharia de Software na Unisatc. (4/8)</p>
+# Olá! Eu sou o Gustavo! 
 
-<a href="mailto:gustavogoulart92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gustavo-goulart-6a023420b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+🇧🇷 BR
+
+Me chamo Gustavo Goulart, tenho 20 anos, sou Desenvolvedor Full Stack na Ninsaúde Software. 
+
+Técnico em desenvolvimento de sistemas pelo SENAI.
+
+Cursando Engenharia de Software na Unisatc. (4/8)
+
+🇬🇧 EN
+
+My name is Gustavo Goulart, I'm 20 years old, and I work as a Full Stack Developer at Ninsaúde Software.
+
+I'm a Systems Development Technician from SENAI.
+
+Currently, I'm studying Software Engineering at Unisatc. (4/8)
+
+## Contato/Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.gustavoneskovek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sc-gustavoneskovek/)
 
 ##
 
@@ -15,21 +30,18 @@
 </div> 
   
 ##
-  
+
 <div>
   <p>Tecnologias com que tenho experiência:</p>
 </div>
 
 <div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-   ![Snake animation](https://github.com/gosttavo/gosttavo/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
- 
