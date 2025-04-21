@@ -21,5 +21,4 @@ Technical degree in Systems Development from SENAI and I'm currently in the 6th 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gosttavoo&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
