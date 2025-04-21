@@ -2,19 +2,15 @@
 
 🇧🇷 BR
 
-Me chamo Gustavo Goulart, tenho 21 anos, sou Desenvolvedor Full Stack na Ninsaúde Software. 
+Olá! Me chamo Gustavo Goulart, tenho 21 anos e atuo como Desenvolvedor Full Stack na Ninsaúde Software.
 
-Técnico em desenvolvimento de sistemas pelo SENAI.
-
-Cursando Engenharia de Software na Unisatc. (4/8)
+Sou Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente estou no 6º semestre de Engenharia de Software pela Unisatc
 
 🇬🇧 EN
 
-My name is Gustavo Goulart, I'm 21 years old, and I work as a Full Stack Developer at Ninsaúde Software.
+Hi! My name is Gustavo Goulart, I'm 21 years old, and I work as a Full Stack Developer at Ninsaúde Software.
 
-I'm a Systems Development Technician from SENAI.
-
-Currently, I'm studying Software Engineering at Unisatc. (4/8)
+I hold a Technical degree in Systems Development from SENAI and I'm currently in the 6th semester of my Software Engineering degree at Unisatc.
 
 ## Contato/Contact
 
